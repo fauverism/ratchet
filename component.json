@@ -1,5 +1,6 @@
 {
   "name": "ratchet",
   "version": "1.0.0",
+  "forked": "fauverism",
   "main": ["./dist/ratchet.js", "./dist/ratchet.css"]
 }
